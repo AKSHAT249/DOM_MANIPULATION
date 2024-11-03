@@ -1,0 +1,30 @@
+.container{
+    margin: 50px;
+    background-color: "black";
+    color: "white";
+   
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.button{
+    text-align: center;
+    background-color: whitesmoke;
+    width: 150px;
+    height: 40px;
+    margin: 20px 5px;
+}
+
+.button_clear{
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 150px;
+    border: 1px solid white;
+    height: 40px;
+    margin: 20px 5px;
+}
+
